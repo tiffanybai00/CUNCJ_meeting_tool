@@ -5,13 +5,9 @@
 
 🔗 **工具地址：** [tiffanybai00.github.io/CUNCJ_meeting_tool](https://tiffanybai00.github.io/CUNCJ_meeting_tool)
 
----
-
 ## 使用前准备
 
 需要一个 **DeepSeek API Key**，首次使用时填入工具即可，之后会自动记住，无需重复填写。
-
----
 
 ## 使用步骤
 
@@ -23,8 +19,6 @@
    - 数字是否与录音一致
    - 有无遗漏的议题
 5. 手动修改后，点击「导出」下载 `.docx` 文件
-
----
 
 ## 注意事项
 
